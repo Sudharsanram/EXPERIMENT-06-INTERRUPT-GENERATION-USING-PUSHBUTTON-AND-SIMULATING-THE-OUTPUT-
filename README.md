@@ -180,7 +180,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- [ex6.PDF](https://github.com/Sudharsanram/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/files/11573252/ex6.PDF)
+ ![image](https://github.com/Sudharsanram/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393980/7e233172-9cf0-4ce4-aefa-ab6bd7efe75d)
+
 
  
 ## Result :
